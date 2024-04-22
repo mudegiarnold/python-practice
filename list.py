@@ -20,3 +20,6 @@ print(list1)
 mylist = ["apple", "banana", "cherry"]
 print(type(mylist))
 
+thislist = list(("apple", "banana", "cherry"))
+print(thislist)
+
