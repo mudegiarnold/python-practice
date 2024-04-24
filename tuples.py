@@ -33,3 +33,7 @@ print(tuple1)
 mytuple = ("apple", "banana", "cherry")
 print(type(mytuple))
 
+
+thistuple = tuple(("apple", "banana", "cherry")) #note the double round-brackets
+print(thistuple)
+
