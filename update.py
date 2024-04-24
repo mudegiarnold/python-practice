@@ -13,3 +13,10 @@ y.append("orange")
 thistuple = tuple(y)
 print(thistuple)
 
+
+thistuple = ("apple", "banana", "cherry")
+y = ("orange",)
+thistuple += y
+
+print(thistuple)
+
