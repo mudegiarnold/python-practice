@@ -29,3 +29,7 @@ print(tuple3)
 tuple1 = ("abc", 34, True, 40, "male")
 print(tuple1)
 
+
+mytuple = ("apple", "banana", "cherry")
+print(type(mytuple))
+
