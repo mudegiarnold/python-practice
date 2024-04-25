@@ -27,3 +27,9 @@ set4 = {"apple", "bananas", "cherry"}
 myset = set1 | set2 | set3 | set4 
 print(myset)
 
+
+x = {"a", "b", "c"}
+y = (1, 2, 3)
+z = x.union(y)
+print(z)
+
