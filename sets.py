@@ -12,3 +12,7 @@ print(thisset)
 thisset = {"apple", "banana", "cherry", False, True, 0}
 print(thisset)
 
+
+thisset = {"apple", "banana", "cherry"}
+print(len(thisset))
+
