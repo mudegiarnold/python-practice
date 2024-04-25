@@ -9,3 +9,8 @@ thisset.discard("banana")
 print(thisset)
 
 
+thisset = {"apple", "banana", "cherry"}
+x = thisset.pop()
+print(x)
+
+
