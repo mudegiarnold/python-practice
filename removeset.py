@@ -14,3 +14,8 @@ x = thisset.pop()
 print(x)
 
 
+thisset = {"apple", "banana", "cherry"}
+thisset.clear()
+print(thisset)
+
+
