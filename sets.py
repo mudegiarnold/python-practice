@@ -24,3 +24,7 @@ print(set1)
 print(set2)
 print(set3)
 
+
+set1 = {"abc", 34, True, 40, "male"}
+print(set1)
+
