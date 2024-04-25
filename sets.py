@@ -32,3 +32,7 @@ print(set1)
 myset = {"apple", "banana", "cherry"}
 print(type(myset))
 
+
+thisset = set(("apple", "banana", "cherry"))
+print(thisset)
+
