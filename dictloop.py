@@ -12,3 +12,6 @@ for x in thisdict:
 for x in thisdict.values():
     print(x)
 
+for x in thisdict.keys():
+    print(x)
+
