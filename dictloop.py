@@ -9,3 +9,6 @@ for x in thisdict:
 for x in thisdict:
     print(thisdict[x])
 
+for x in thisdict.values():
+    print(x)
+
