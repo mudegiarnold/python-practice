@@ -20,3 +20,5 @@ thisdict = {
         }
 print(thisdict)
 
+print(len(thisdict))
+
