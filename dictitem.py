@@ -6,3 +6,6 @@ thisdict = {
 x = thisdict["model"]
 print(x)
 
+x = thisdict.get("model")
+print(x)
+
