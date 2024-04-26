@@ -9,3 +9,5 @@ print(x)
 x = thisdict.get("model")
 print(x)
 
+x = thisdict.keys()
+print(x)
