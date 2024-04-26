@@ -50,3 +50,9 @@ x = car.values()
 print(x) #before the change
 car["color"] = "red"
 print(x) #after the change
+
+
+x = thisdict.items()
+print(x)
+
+
