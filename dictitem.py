@@ -23,3 +23,8 @@ print(x) #before the change
 car["color"] = "white"
 print(x) #after the change
 
+
+x = thisdict.values()
+print(x)
+
+
