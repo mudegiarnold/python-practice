@@ -54,3 +54,10 @@ if x > 10:
         print("and above 20!")
     else:
         print("but not above 20.")
+
+a = 33
+b = 200
+
+if b > a:
+    pass
+
