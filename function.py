@@ -55,4 +55,17 @@ print(my_function(3))
 print(my_function(5))
 print(my_function(9))
 
+def myfunction():
+    pass
 
+def my_function(x, /):
+    print(x)
+
+    my_function(3)
+
+def my_function(x, /):
+    print(x)
+
+    my_function(x = 3)
+
+def my_function(*
